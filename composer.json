@@ -1,5 +1,5 @@
 {
-  "name": "lgpinstore/rabbitmq-auth-backend-http",
+  "name": "lgpinstore/rabbitmq-auth",
   "description": "Implementation of RabbitMQ http auth backend",
   "type": "library",
   "license": "MIT",
